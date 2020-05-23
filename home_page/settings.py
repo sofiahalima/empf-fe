@@ -25,7 +25,7 @@ SECRET_KEY = '!avnmspouovgpqjzw!9i_i*t0br3_9ve-*jjkp(l@b1x6e-!j4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['still-chamber-59520.herokuapp.com', 'localhost']
 
 
 # Application definition
