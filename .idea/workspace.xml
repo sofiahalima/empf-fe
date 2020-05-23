@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef440b2c-818f-4750-871d-6cacf0cff4ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +29,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -53,6 +55,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="73" y="247" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590212944679">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="73" y="247" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.831@0.23.1440.831" timestamp="1590212944679" />
     <state x="50" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1589896324864">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
